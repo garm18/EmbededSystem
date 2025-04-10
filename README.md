@@ -11,7 +11,6 @@ This project, titled "EmbededSystem," is focused on [embedded systems developmen
 - [About the Project](#about-the-project)
 - [Planned Features](#planned-features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
